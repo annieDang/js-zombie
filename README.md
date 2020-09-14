@@ -1,4 +1,4 @@
-# A fun cli game created for fun. Just to try inquirer.js lib
+# A fun cli game created for fun. 
 ----------------------
 
 ## Description 
