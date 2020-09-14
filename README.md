@@ -1,6 +1,6 @@
 * A fun cli game created for fun. A way to try inquirer.js lib
 
-** Description 
+* * Description 
 
 After the nuclear war, a strange and deadly virus has infected the planet. Living creatures
 are becoming zombies that spread their zombiness by an unfriendly bite. The world consists
@@ -28,8 +28,8 @@ zombie moves, and so in order of infection with each zombie performing the same 
 of moves. Once no new zombies have been created and all the zombies have completed
 moving the program ends.
 
-** Test
-*** npm run test
+* * Test
+* * * npm run test
 
-** Run 
-*** node .
+* * Run 
+* * * node .
